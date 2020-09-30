@@ -1,0 +1,15 @@
+{
+  "name": "de.thirteenpixels.pooling",
+  "version": "2.0.2",
+  "displayName": "13Pixels Pooling",
+  "description": "Lightweight and modular pooling.",
+  "unity": "2018.3",
+  "keywords": [
+    "Pooling"
+  ],
+  "author": {
+    "name": "13Pixels",
+    "email": "assetstore@13pixels.de",
+    "url": "https://www.13pixels.de"
+  }
+}
